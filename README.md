@@ -61,7 +61,6 @@ model.add(keras.layers.Flatten())
 model.add(keras.layers.Dense(10, activation='softmax'))
 
  </code>
- 
  <p>
  In addtion, before fitting you can view a summery of your model.
  </p>
