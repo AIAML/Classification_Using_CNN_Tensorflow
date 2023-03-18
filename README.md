@@ -11,6 +11,8 @@
  
  <H3> Dataset </H3>
  
+ 
+ 
  <p> After that we must include our dataset. In this project we have used Fashion MNIST dataset where you can see details in <a href='https://keras.io/api/datasets/fashion_mnist/'> this link </a> </p>
  
  <img src='https://raw.githubusercontent.com/AIAML/Multi_Layer_perceptron_using_Tensorflow/master/fashion-mnist-sprite.png' style='width:800px' /> 
