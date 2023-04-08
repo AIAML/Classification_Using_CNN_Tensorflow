@@ -30,6 +30,7 @@ model.add(keras.layers.Dense(10, activation='softmax'))
 model.summary()
 
 
+
 model.compile(loss='categorical_crossentropy',
               optimizer='sgd',
               metrics=['accuracy'])
